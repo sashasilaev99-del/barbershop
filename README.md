@@ -38,7 +38,7 @@ barbershop/
 1. Склонируйте репозиторий или скачайте ZIP:
 
    ```bash
-   git clone https://github.com/ваш-логин/barbershop.git
+   git clone https://github.com/sashasilaev99-del/barbershop.git
    cd barbershop
    ```
 
